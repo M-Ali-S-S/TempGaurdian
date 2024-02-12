@@ -1,0 +1,15 @@
+{
+    "text_color": "#ff0000",
+    "background_color": "#0000a0",
+    "font": "20",
+    "opacity": "1",
+    "shown": {
+        "cpuT": "True",
+        "cpuU": "True",
+        "cpuP": "True",
+        "gpuT": "True",
+        "gpuU": "True",
+        "ramU": "True",
+        "ramP": "True"
+    }
+}
